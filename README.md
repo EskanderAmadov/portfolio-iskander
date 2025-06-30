@@ -46,7 +46,6 @@ This is my personal developer portfolio website, showcasing selected frontend pr
 Feel free to reach out!
 
 - GitHub: [https://github.com/EskanderAmadov/portfolio-iskander](https://github.com/EskanderAmadov/portfolio-iskander)
-- Email: eskander@example.com _(update with real email)_
 
 ---
 
