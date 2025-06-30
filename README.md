@@ -4,7 +4,7 @@ This is my personal developer portfolio website, showcasing selected frontend pr
 
 ## 🔗 Live Site
 
-[Visit Portfolio](https://your-portfolio-url.netlify.app/)  
+[Visit Portfolio](https://portfolio-iskander.netlify.app/)  
 
 ---
 
@@ -45,7 +45,7 @@ This is my personal developer portfolio website, showcasing selected frontend pr
 
 Feel free to reach out!
 
-- GitHub: [github.com/EskanderAmadov](https://github.com/EskanderAmadov)
+- GitHub: [https://github.com/EskanderAmadov/portfolio-iskander](https://github.com/EskanderAmadov/portfolio-iskander)
 - Email: eskander@example.com _(update with real email)_
 
 ---
